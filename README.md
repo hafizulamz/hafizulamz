@@ -8,9 +8,6 @@
   <img width="100%" src="https://media-exp1.licdn.com/dms/image/C5116AQEssw1Tdvst0g/profile-displaybackgroundimage-shrink_350_1400/0/1538934675389?e=1639612800&v=beta&t=IN0McVwmdJt4kP3TgBBvmWJ1i3MCOdPRDlH1prlDBvk">
 </a>
 
-🔴 **Support my work:**
-[![Buy me a coffee](https://img.shields.io/badge/Buy%20me%20a%20coffee--yellow.svg?logo=buy-me-a-coffee&logoColor=orange&style=social)](https://www.buymeacoffee.com/dataprofessor)
-
 🟠 **Learn Data Science for FREE:**
 [![YouTube](https://img.shields.io/youtube/channel/subscribers/UCV8e2g4IWQqK71bbzGDEI4Q?style=social)](http://youtube.com/)
 [![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white&style=social)](https://medium.com/)
@@ -23,10 +20,9 @@
 [![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&style=social&logo=r&logoColor=white)](https://www.youtube.com/playlist?list=PL2WsO1N8GK8v9xaNwbR1tiGH9lO4epcjg)
 
 🔵 **Connect with me:**
-[![Follow](https://img.shields.io/twitter/follow/thedataprof?style=social)](https://www.twitter.com/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&style=social&logo=linkedin&logoColor=white)](https://www.linkedin.com/company/)
-[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&style=social&logo=facebook&logoColor=white)](http://facebook.com/)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&style=social&logo=instagram&logoColor=white)](https://www.instagram.com/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&style=social&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hafizulamz/)
+[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&style=social&logo=facebook&logoColor=white)](https://www.facebook.com/hafizulamz)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&style=social&logo=instagram&logoColor=white)](https://www.instagram.com/drhafiez/)
 
 <!---
 hafizulamz/hafizulamz is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
