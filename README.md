@@ -11,6 +11,8 @@
   <img width="100%" src="[https://media-exp1.licdn.com/dms/image/C5116AQEssw1Tdvst0g/profile-displaybackgroundimage-shrink_350_1400/0/1538934675389?e=1639612800&v=beta&t=IN0McVwmdJt4kP3TgBBvmWJ1i3MCOdPRDlH1prlDBvk](https://hafizulamz.github.io/assets/img/movingFwd.jpg)">
 </a>
 
+[![Header](https://hafizulamz.github.io/assets/img/movingFwd.jpg)]
+
 🟠 **Learn Data Science for FREE:**
 [![YouTube](https://img.shields.io/youtube/channel/subscribers/UCV8e2g4IWQqK71bbzGDEI4Q?style=social)](http://youtube.com/)
 [![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white&style=social)](https://medium.com/)
