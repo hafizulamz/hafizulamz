@@ -8,7 +8,7 @@
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&style=social&logo=instagram&logoColor=white)](https://www.instagram.com/drhafiez/)
 
 <a hrefxx="">
-  <img width="100%" src="https://media-exp1.licdn.com/dms/image/C5116AQEssw1Tdvst0g/profile-displaybackgroundimage-shrink_350_1400/0/1538934675389?e=1639612800&v=beta&t=IN0McVwmdJt4kP3TgBBvmWJ1i3MCOdPRDlH1prlDBvk">
+  <img width="100%" src="[https://media-exp1.licdn.com/dms/image/C5116AQEssw1Tdvst0g/profile-displaybackgroundimage-shrink_350_1400/0/1538934675389?e=1639612800&v=beta&t=IN0McVwmdJt4kP3TgBBvmWJ1i3MCOdPRDlH1prlDBvk](https://hafizulamz.github.io/assets/img/movingFwd.jpg)">
 </a>
 
 🟠 **Learn Data Science for FREE:**
