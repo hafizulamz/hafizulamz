@@ -7,7 +7,7 @@
 [![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&style=social&logo=facebook&logoColor=white)](https://www.facebook.com/hafizulamz)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&style=social&logo=instagram&logoColor=white)](https://www.instagram.com/drhafiez/)
 
-![Header](https://hafizulamz.github.io/assets/img/movingFwd.jpg)
+![Header](https://hafizulabdullah.com/assets/img/movingFwd.jpg)
 
 🟠 **Learn Data Science for FREE:**
 [![YouTube](https://img.shields.io/youtube/channel/subscribers/UCV8e2g4IWQqK71bbzGDEI4Q?style=social)](http://youtube.com/)
