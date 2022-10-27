@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @hafizulamz
-- 👀 I’m interested in Data Science
+- 👀 I’m interested in Data Science and Machine Learning projects
 - 🌱 I’m currently learning how to become a better data scientist
 - 💞️ I’m looking to collaborate on any interesting data science projects
 - 📫 You can reach me on my social profiles:
