@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @hafizulamz
+- 👋 Hi, I’m Hafizul Abdullah!
 - 👀 I’m interested in Data Science and Machine Learning projects
 - 🌱 I’m currently learning how to become a better data scientist
 - 💞️ I’m looking to collaborate on any interesting data science projects
